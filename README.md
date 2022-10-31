@@ -45,5 +45,9 @@ suma()
 Relaciones: 
 
 Principal--->Juego  (Dependencia)
+
+
 Juego--->Dados  (Asociación)
+
+
 Juego--->Calculadora (Dependencia)
